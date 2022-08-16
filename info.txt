@@ -1,0 +1,5 @@
+# install cherrytree ;
+# on debian linux -- apt install cherrytree
+# on windows download and install cherrytree manually 
+
+#open that file , this file is not password protected .. 
